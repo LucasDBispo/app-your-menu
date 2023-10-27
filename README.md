@@ -1,2 +1,2 @@
 # app-your-menu
-Aplicativo que permite que o usuário crie um menu para seus produtos.
+App designed to help entrepreneurs create a simple menu for their business 
